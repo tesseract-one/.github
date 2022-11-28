@@ -15,15 +15,25 @@
 
 <table><tr>
 	<td><img alt="Tesseract Demo" align="left" src ="https://raw.githubusercontent.com/tesseract-one/.github/main/android-demo-384.gif"/></td>
-	<td><p align="top">
-		<ul>
-			<h3>Tesseract</h3>
-			<li>provides seamless integration of dApps and Wallets</li>
-			<li>feels like a native environment for the user</li>
-			<li>allows developers to create native dApps that don't hold the private key</li>
-			<li>iOS and Android</li>
-		</ul>
-	</p></td>
+	<td>
+		<p align="top">
+			<ul>
+				<h3>Tesseract</h3>
+				<li>provides seamless integration of dApps and Wallets</li>
+				<li>feels like a native environment for the user</li>
+				<li>allows developers to create native dApps that don't hold the private key</li>
+				<li>iOS and Android</li>
+			</ul>
+		</p>
+		<p>
+			<ul>
+				<h5>To learn more about how to integrate you dApp or Wallet with Tesseract, please start with one of the folloing:</h5>
+				<li><a href="/tesseract-one/Tesseract.android">Tesseract for Android<a/></li>
+				<li><a href="/tesseract-one/Tesseract.swift">Tesseract for iOS<a/></li>
+				<li><a href="/tesseract-one/Tesseract.rs">Tesseract shared Core<a/></li>
+			</ul>
+		</p>
+	</td>
 </tr></table>
 
 <!-- img align="left" alt="Tesseract Demo" src ="https://raw.githubusercontent.com/tesseract-one/.github/main/android-demo.gif" height=384/><table align="left"><tr><td></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></td></tr></table>
