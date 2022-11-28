@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+	<a href="http://tesseract.one/">
+		<img alt="Tesseract" src ="./VerticalBlack.svg" height=256/>
+	</a>
+</p>
 
 <!--
 
