@@ -19,9 +19,9 @@
 		<ul>
 			<h3>Tesseract</h3>
 			<li>provides seamless integration of dApps and Wallets</li>
-			<li>displays the UI of the wallet as a modal screen</li>
 			<li>feels like a native environment for the user</li>
-			<li>supports iOS and Android</li>
+			<li>allows developers to create native dApps that don't hold the private key</li>
+			<li>iOS and Android</li>
 		</ul>
 	</p></td>
 </tr></table>
