@@ -8,10 +8,12 @@
 
 #### Tesseract aims to improve the usability of the dApps without compromising security or decentralization.
 
-<p align="left">
+### ![Tesseract Demo](https://raw.githubusercontent.com/tesseract-one/.github/main/android-demo-384.gif) Text follows here
+
+<!-- p align="left">
 	<img alt="Tesseract Demo" src ="https://raw.githubusercontent.com/tesseract-one/.github/main/android-demo.gif" height=384/>
 ### ok some text
-</p>
+</p -->
 
 <!--
 
