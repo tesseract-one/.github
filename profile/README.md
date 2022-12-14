@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="http://tesseract.one/">
-		<img alt="Tesseract" src ="https://raw.githubusercontent.com/tesseract-one/.github/main/VerticalBlack.svg" height=256/>
+		<img alt="Tesseract" src ="https://raw.githubusercontent.com/tesseract-one/.github/main/logo.svg" height=256/>
 	</a>
 </p>
 
