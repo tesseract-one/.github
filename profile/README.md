@@ -27,10 +27,12 @@
 		</p>
 		<p>
 			<ul>
-				<h5>To learn more about how to integrate you dApp or Wallet with Tesseract, please start with one of the folloing:</h5>
+				<h5>To learn more about how to integrate you dApp or Wallet with Tesseract, please start with one of the following:</h5>
 				<li><a href="https://github.com/tesseract-one/Tesseract.android">Tesseract for Android<a/></li>
 				<li><a href="https://github.com/tesseract-one/Tesseract.swift">Tesseract for iOS<a/></li>
 				<li><a href="https://github.com/tesseract-one/Tesseract.rs">Tesseract shared Core<a/></li>
+				<li><a href="https://github.com/tesseract-one/dev-wallet">Developer Wallet for testing Tesseract in dApps<a/></li>
+				<li><a href="https://github.com/tesseract-one/polkachat.rs">Demo dApp for Polkadot network<a/></li>
 			</ul>
 		</p>
 	</td>
